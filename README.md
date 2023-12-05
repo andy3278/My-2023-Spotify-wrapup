@@ -4,6 +4,9 @@
 
 ## Data Viz
 [Link to exploratory data analysis](./eda.ipynb)
+[Link to Tableau dashboard](https://public.tableau.com/views/spotify-wrapup-2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+![dashboard](./Spotify%20Wrapup%20Dashboard.png)
+
 - My total time spent streaming in 2023: 650 hrs (~27 days)
 - My Most streamed song: GODS by Newjeans streamed 57000+ seconds (~15.8 hrs repeated 259 times!)
 - My Most streamed artist: IU streamed 123000+ seconds (~34 hrs)
